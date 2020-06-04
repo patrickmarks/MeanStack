@@ -1,7 +1,9 @@
-# My Portfolio
+# My Projects
 This is my Portfolio
 
 ## This is my work
-Anugular
-Node
+Mongoose
 Express
+Angular
+Node
+
